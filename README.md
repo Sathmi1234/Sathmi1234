@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web tec
 - 🔭 
 - 🌱 Learning advanced React and TypeScript
 - 💬 Ask me about React, JavaScript, or APIs
-- ⚡ Fun Fact: I love hiking and photography
+- ⚡ Fun Fact: I love music and traveling
 
 ---
 
@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web tec
 
 
 ## 🌟 Achievements
-- 🌟 
-- 🏆 
-- 📝 
+
 
 ---
 
