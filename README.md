@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web tec
 ## 🌟 Achievements
 
 
----
-
 ## 📫 Connect With Me
 
 ## 🔥 GitHub Streak Stats
