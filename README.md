@@ -28,3 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web tec
 
 ## 📫 Connect With Me
 
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sathmi1234&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
